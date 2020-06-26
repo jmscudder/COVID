@@ -39,6 +39,11 @@ The increase in the number of reported total tests (blue). A 7 day running avera
 The percent of each day's new reported tests which represent that day's new reported cases.
 ![](percentpositive_tests.png)
 
+>The lowest 7 day average reported positive test fraction per day in the last three weeks was on Jun 13 2020.
+>
+>This was 14 days ago. The average was 3.4 percent positive.
+>
+>The current positive test rate is 4.7 percent, an increase of 38.2 percent with respect to the minimum.
 ### Cumulative plots
 The cumulative number of cases, hospitalizations, ICU admissions, and deaths. If no new cases were reported, these lines would be horizontal.
 ![](Cases.png)
