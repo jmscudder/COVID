@@ -1,9 +1,8 @@
 ## Plotting publicly available COVID data for the state of Ohio.
 
 ### 7 day averages
-The 7 day averages for the daily increase in cases, hospitalizations, ICU admissions, and deaths.
+The 7 day averages for the daily increase in cases, hospitalizations, ICU admissions, and deaths. If no new cases were reported, this line would go to zero.
 ![](7dayaverage_cases.png)
-If no new cases were reported, this line would go to zero.
 
 The 7 day averages for the daily increase in hospitalizations, ICU admissions, and deaths.
 ![](7dayaverage_hospital.png)
