@@ -10,7 +10,8 @@ The seven day average then was 1317 cases.
  
 The lowest 7 day average reported cases per day in the last three weeks was on Jun 12 2020. 
 This was 14 days ago. The average was 380 cases per day. 
-The current 7 day average case rate is an increase of 84.0 percent with respect to the minimum.The 7 day averages for the daily increase in hospitalizations, ICU admissions, and deaths.
+The current 7 day average case rate is an increase of 84.0 percent with respect to the minimum.
+The 7 day averages for the daily increase in hospitalizations, ICU admissions, and deaths.
 ![](7dayaverage_hospital.png)
 If no new events were reported, these lines would go to zero.
 
@@ -21,6 +22,7 @@ If no new cases were reported, this line would go to zero.
 The increase in cases from yesterday to today: 987 
 The last time cases per day were this high was Apr 26 2020: 61 days ago. 
 The case rate then was 1317 cases.
+
 The raw daily increase in hospitalizations, ICU admissions, and deaths. The 7 day average is shown faintly behind the raw data.
 ![](DailyHospitalizations.png)
 If no new events were reported, these lines would go to zero.
