@@ -44,6 +44,7 @@ The percent of each day's new reported tests which represent that day's new repo
 >This was 14 days ago. The average was 3.4 percent positive.
 >
 >The current average positive test rate is 4.7 percent, an increase of 38.2 percent with respect to the minimum.
+
 ### Cumulative plots
 The cumulative number of cases, hospitalizations, ICU admissions, and deaths. If no new cases were reported, these lines would be horizontal.
 ![](Cases.png)
