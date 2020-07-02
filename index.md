@@ -34,7 +34,7 @@ The raw daily increase in hospitalizations, ICU admissions, and deaths. The 7 da
 ![](DailyHospitalizations.png)
 
 ### Testing
-*July 2 testing data has not been updated as of 6:45pm Eastern.*
+**July 2 testing data has not been updated as of 6:45pm Eastern.**
 
 The increase in the number of reported total tests (blue). A 7 day running average is shown in black.
 ![](DailyTests.png)
