@@ -1,7 +1,4 @@
-The average increase in cases for the last seven days is: 872
-The last time cases per day were this high was Apr 20 2020: 69 days ago.
-The seven day average then was: 897 cases.
-
-The lowest 7 day average reported cases per day in the last three weeks was on Jun 12 2020.
-This was 19 days ago. The average was 381 cases per day.
-The current 7 day average case rate is an increase of 128.9 percent with respect to the minimum.
+The average increase in cases for the last seven days is: 931
+This is the highest the 7 day average increase in cases has ever been.The lowest 7 day average reported cases per day in the last three weeks was on Jun 12 2020.
+This was 20 days ago. The average was 381 cases per day.
+The current 7 day average case rate is an increase of 144.4 percent with respect to the minimum.
