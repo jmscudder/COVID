@@ -24,9 +24,9 @@ The 7 day averages for the daily increase in hospitalizations, ICU admissions, a
 >
 >The lowest 7 day average reported hospitalizations per day in the last three weeks was on Jun 20 2020.
 >
->This was 19 days ago. The average was 58.0 hospitalizations per day.
+>This was 13 days ago. The average was 48.0 hospitalizations per day.
 >
->The current 7 day average hospitalization rate is an increase of 25.9 percent with respect to the minimum.
+>The current 7 day average hospitalization rate is an increase of 52.1 percent with respect to the minimum.
 
 ### Raw data
 The raw daily increase in cases, hospitalizations, ICU admissions, and deaths. The 7 day average is shown faintly behind the raw data. If no new cases were reported, this line would go to zero.
