@@ -34,6 +34,7 @@ The raw daily increase in hospitalizations, ICU admissions, and deaths. The 7 da
 ![](DailyHospitalizations.png)
 
 ### Testing
+**July 2 testing data has not been updated as of July 3 10:45am Eastern.**
 
 The increase in the number of reported total tests (blue). A 7 day running average is shown in black.
 ![](DailyTests.png)
@@ -44,7 +45,7 @@ The percent of each day's new reported tests which represent that day's new repo
 >
 >This was 20 days ago. The average was 3.4 percent positive. 
 >
->The current positive test rate is 6.0 percent, an increase of 76.5 percent with respect to the minimum. 
+>The current positive test rate is 7.1 percent, an increase of 108.8 percent with respect to the minimum. 
 
 ### Cumulative plots
 The cumulative number of cases, hospitalizations, ICU admissions, and deaths. If no new cases were reported, these lines would be horizontal.
