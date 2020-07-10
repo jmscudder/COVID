@@ -1,62 +1,56 @@
 ## Plotting publicly available COVID data for the state of Ohio. 
 
-Last updated: Jul 09 2020. 
+Last updated: Jul 10 2020. 
 
 ### 7 day averages
 The 7 day averages for the daily increase in cases, hospitalizations, ICU admissions, and deaths. If no new cases were reported, this line would go to zero.
 ![](7dayaverage_cases.png)
 
->The average increase in cases for the last seven days is: 1024.0
+>The average increase in cases for the last seven days is: 1086.0
 >
->The last time cases per day were this high was Jul 08 2020: 1 day ago.
->
->The seven day average then was: 1045 cases.
-
+>This is the highest the 7 day average increase in cases has ever been.
 >
 >
->The lowest 7 day average reported cases per day in the last three weeks was on Jun 19 2020.
+>The lowest 7 day average reported cases per day in the last three weeks was on Jun 20 2020.
 >
->This was 20 days ago. The average was 472 cases per day.
+>This was 20 days ago. The average was 488 cases per day.
 >
->The current 7 day average case rate is an increase of 116.9 percent with respect to the minimum.
+>The current 7 day average case rate is an increase of 122.5 percent with respect to the minimum.
 
 The 7 day averages for the daily increase in hospitalizations, ICU admissions, and deaths. If no new events were reported, these lines would go to zero.
 ![](7dayaverage_hospital.png)
 
->The average increase in hospitalizations for the last seven days is: 76.0
+>The average increase in hospitalizations for the last seven days is: 88.0
 >
 >The lowest 7 day average reported hospitalizations per day in the last three weeks was on Jun 20 2020.
 >
->This was 19 days ago. The average was 48.0 hospitalizations per day.
+>This was 20 days ago. The average was 48.0 hospitalizations per day.
 >
->The current 7 day average hospitalization rate is an increase of 58.3 percent with respect to the minimum.
+>The current 7 day average hospitalization rate is an increase of 83.3 percent with respect to the minimum.
 
 ### Raw data
 The raw daily increase in cases, hospitalizations, ICU admissions, and deaths. The 7 day average is shown faintly behind the raw data. If no new cases were reported, this line would go to zero.
 ![](DailyCases.png)
 
->The increase in cases from yesterday to today: 1150 
+>The increase in cases from yesterday to today: 1525 
 >
->The last time cases per day were this high was Jul 08 2020: 1 day ago. 
->
->The case rate then was 1277 cases.
+>This is the highest the single day increase in cases has ever been.
 
 The raw daily increase in hospitalizations, ICU admissions, and deaths. The 7 day average is shown faintly behind the raw data. If no new events were reported, these lines would go to zero.
 ![](DailyHospitalizations.png)
 
 ### Testing
-**The testing data for July 9 has not been reported as of 17:15 Eastern.**
 
 The increase in the number of reported total tests (navy). A 7 day running average is shown in black.
 ![](DailyTests.png)
 The percent of each day's new reported tests which represent that day's new reported cases.
 ![](percentpositive_tests.png)
 
->The lowest 7 day average reported positive test fraction per day in the last three weeks was on Jun 19 2020.
+>The lowest 7 day average reported positive test fraction per day in the last three weeks was on Jun 20 2020.
 >
->This was 20 days ago. The average was 3.6 percent positive. 
+>This was 20 days ago. The average was 3.8 percent positive. 
 >
->The current average positive test rate is 5.8 percent, an increase of 61.1 percent with respect to the minimum. 
+>The current average positive test rate is 5.8 percent, an increase of 52.6 percent with respect to the minimum. 
 
 ### Cumulative plots
 The cumulative number of cases, hospitalizations, ICU admissions, and deaths. If no new cases were reported, these lines would be horizontal.
