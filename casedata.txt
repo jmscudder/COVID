@@ -1,3 +1,3 @@
-The increase in cases from yesterday to today: 1527 
-The last time cases per day were this high was Jul 18 2020: 4 days ago. 
-The case rate then was 1542 cases.
+The increase in cases from yesterday to today: 1444 
+The last time cases per day were this high was Jul 22 2020: 1 day ago. 
+The case rate then was 1527 cases.
