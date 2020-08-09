@@ -22,6 +22,7 @@ The 7 day averages for the daily increase in cases, hospitalizations, ICU admiss
 >This was 2 days ago. The average was 1074 cases per day.
 >
 >The current 7 day average case rate is an increase of 4.0 percent with respect to that minimum.
+
 The 7 day averages for the daily increase in hospitalizations, ICU admissions, and deaths. If no new events were reported, these lines would go to zero.
 ![](7dayaverage_hospital.png)
 
