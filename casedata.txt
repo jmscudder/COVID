@@ -1,5 +1,5 @@
-The increase in cases from yesterday to today: 883.0 
-The last time cases per day were this high was Aug 08 2020: 2 days ago. 
+The increase in cases from yesterday to today: 1095.0 
+The last time cases per day were this high was Aug 08 2020: 3 days ago. 
 The case rate then was 1294 cases. 
-The last time cases per day were lower than this was Aug 09 2020: 1 day ago. 
-The case rate then was 879 cases.
+The last time cases per day were lower than this was Aug 10 2020: 1 day ago. 
+The case rate then was 883 cases.
