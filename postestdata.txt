@@ -1,3 +1,1 @@
-The lowest 7 day average reported positive test fraction per day in the last three weeks was on Aug 31 2020.
-This was 17 days ago. The average was 3.1 percent positive. 
-The current positive test rate is 3.3 percent, a change of 6.5 percent with respect to that minimum.
+Today marks the lowest 7 day average positivity fraction in the last three weeks, at 3.1 percent.
