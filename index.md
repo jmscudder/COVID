@@ -44,18 +44,13 @@ The raw daily increase in hospitalizations, ICU admissions, and deaths. The 7 da
 ![](DailyHospitalizations.png)
 
 ### Testing
-**The cumulative number of tests reported for September 22 is the same as for September 21st.**
 
 The increase in the number of reported total tests (navy). A 7 day running average is shown in black.
 ![](DailyTests.png)
 The percent of each day's new reported tests which represent that day's new reported cases.
 ![](percentpositive_tests.png)
 
->The lowest 7 day average reported positive test fraction per day in the last three weeks was on Sep 21 2020.
->
->This was 1 days ago. The average was 2.9 percent positive. 
->
->The current average positive test rate is 3.2 percent, a change of 10.3 percent with respect to then. 
+>Today marks the lowest 7 day average positivity fraction in the last three weeks, at 2.8 percent.
 
 ### Cumulative plots
 The cumulative number of cases, hospitalizations, ICU admissions, and deaths. If no new cases were reported, these lines would be horizontal.
