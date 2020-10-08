@@ -1,6 +1,6 @@
-The increase in cases from yesterday to today: 1424.0 
-The last time cases per day were this high was Oct 02 2020: 5 days ago. 
-The case rate then was 1495 cases. 
-The last time cases per day were lower than this was Oct 06 2020: 1 day ago. 
-The case rate then was 1335 cases.
+The increase in cases from yesterday to today: 1539.0 
+The last time cases per day were this high was Jul 30 2020: 70 days ago. 
+The case rate then was 1733 cases. 
+The last time cases per day were lower than this was Oct 07 2020: 1 day ago. 
+The case rate then was 1424 cases.
 The current total number of cases is equivalent to 1 person out of every 71 in the state of Ohio having tested positive for COVID-19.
