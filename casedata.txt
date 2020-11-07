@@ -1,4 +1,4 @@
-The increase in cases from yesterday to today: 5008.0 
-This is the highest the single day increase in cases has ever been.The last time cases per day were lower than this was Nov 05 2020: 1 day ago. 
-The case rate then was 4961 cases.
-The current total number of cases is equivalent to 1 person out of every 48 in the state of Ohio having tested positive for COVID-19.
+The increase in cases from yesterday to today: 5549.0 
+This is the highest the single day increase in cases has ever been.The last time cases per day were lower than this was Nov 06 2020: 1 day ago. 
+The case rate then was 5008 cases.
+The current total number of cases is equivalent to 1 person out of every 47 in the state of Ohio having tested positive for COVID-19.
