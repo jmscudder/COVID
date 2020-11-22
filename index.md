@@ -2,7 +2,7 @@
 
 Last updated: Nov 22 2020. 
 
-**The data for Nov 18th - 22nd/ is incomplete.**
+**The data for Nov 18th - 22nd is incomplete.**
 ### 7 day averages
 The 7 day averages for the daily increase in cases, hospitalizations, ICU admissions, and deaths. If no new cases were reported, these lines would go to zero.
 ![](7dayaverage_cases.png)
