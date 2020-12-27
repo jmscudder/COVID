@@ -33,7 +33,7 @@ The 7 day averages for the daily increase in hospitalizations, ICU admissions, a
 >
 >The current 7 day average hospitalization rate is an increase of 3.9 percent with respect to then.
 
->The 7 day average increase in cases, compared to the number of first round vaccinations dispensed:
+The 7 day average increase in cases, compared to the number of first round vaccinations dispensed:
 ![](DailyVaccinationsCases.png)
 
 ### Raw data
