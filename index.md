@@ -81,5 +81,5 @@ The cumulative number of hospitalizations, ICU admissions, and deaths. If no new
 The cumulative number of first round vaccinations. If no new events were reported, these lines would be horizontal.
 ![](Vaccinations.png)
 
->The current total number of vaccinations is equivalent to 1 person out of every 124 in the state of Ohio having tested positive for COVID-19.
+>The current total number of vaccinations is equivalent to 1 person out of every 124 in the state of Ohio having begun their vaccination sequence.
 
