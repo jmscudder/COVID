@@ -9,33 +9,33 @@ Last updated: Jan 07 2021.
 The 7 day averages for the daily increase in cases, hospitalizations, ICU admissions, and deaths. If no new cases were reported, these lines would go to zero.
 ![](7dayaverage_cases.png)
 
->The average increase in cases for the last seven days is: 7438.0
+>The average increase in cases for the last seven days is: 7527.0
 >
->The last time cases per day were this high was Jan 05 2021: 2 days ago.
+>The last time cases per day were this high was Dec 24 2020: 14 days ago.
 >
->The seven day average then was: 7490 cases.
+>The seven day average then was: 8210 cases.
 
 >
->The last time cases per day was lower than this was Jan 03 2021: 4 days ago.
+>The last time cases per day was lower than this was Jan 06 2021: 1 day ago.
 >
->The seven day average then was: 7279 cases.
+>The seven day average then was: 7438 cases.
 >
 >The lowest 7 day average reported cases per day in the last three weeks was on Dec 29 2020.
 >
 >This was 9 days ago. The average was 6505 cases per day.
 >
->The current 7 day average case rate is an increase of 14.3 percent with respect to that minimum.
+>The current 7 day average case rate is an increase of 15.7 percent with respect to that minimum.
 
 The 7 day averages for the daily increase in hospitalizations, ICU admissions, and deaths. If no new events were reported, these lines would go to zero.
 ![](7dayaverage_hospital.png)
 
->The average increase in hospitalizations per day for the last seven days is: 300
+>The average increase in hospitalizations per day for the last seven days is: 305
 >
 >The lowest 7 day average reported hospitalizations per day in the last three weeks was on Dec 26 2020.
 >
 >This was 12 days ago. The average was 280 hospitalizations per day.
 >
->The current 7 day average hospitalization rate is an increase of 7.1 percent with respect to then.
+>The current 7 day average hospitalization rate is an increase of 8.9 percent with respect to then.
 
 The 7 day average increase in cases, compared to the number of first round vaccinations dispensed:
 ![](DailyVaccinationsCases.png)
@@ -44,15 +44,15 @@ The 7 day average increase in cases, compared to the number of first round vacci
 The raw daily increase in cases, hospitalizations, ICU admissions, and deaths. The 7 day average is shown faintly behind the raw data. If no new cases were reported, this line would go to zero.
 ![](DailyCases.png)
 
->The increase in cases from yesterday to today: 7814.0 
+>The increase in cases from yesterday to today: 10251.0 
 >
 >The last time cases per day were this high was Jan 02 2021: 5 days ago. 
 >
 >The case rate then was 14293 cases.
 >
->The last time cases per day were lower than this was Jan 05 2021: 2 days ago. 
+>The last time cases per day were lower than this was Jan 06 2021: 1 day ago. 
 >
->The case rate then was 7580 cases.
+>The case rate then was 7814 cases.
 
 The raw daily increase in hospitalizations, ICU admissions, and deaths. The 7 day average is shown faintly behind the raw data. If no new events were reported, these lines would go to zero.
 ![](DailyHospitalizations.png)
@@ -68,7 +68,7 @@ The percent of each day's new reported tests which represent that day's new repo
 >
 >This was 10 days ago. The average was 15.1 percent positive. 
 >
->The current average positive test rate is 18.3 percent, a change of 21.2 percent with respect to then. 
+>The current average positive test rate is 18.6 percent, a change of 23.2 percent with respect to then. 
 
 ### Cumulative plots
 The cumulative number of cases, hospitalizations, ICU admissions, and deaths. If no new cases were reported, these lines would be horizontal.
@@ -81,5 +81,5 @@ The cumulative number of hospitalizations, ICU admissions, and deaths. If no new
 The cumulative number of first round vaccinations. If no new events were reported, these lines would be horizontal.
 ![](Vaccinations.png)
 
->The current total number of vaccinations is equivalent to 1 person out of every 58 in the state of Ohio having begun their vaccination sequence.
+>The current total number of vaccinations is equivalent to 1 person out of every 52 in the state of Ohio having begun their vaccination sequence.
 
