@@ -87,5 +87,5 @@ The cumulative number of first and second round vaccinations. If no new events w
 >The current total number of second round vaccinations is equivalent to 1 person out of every 164 in the state of Ohio having completed their vaccination sequence.
 >This is 0.61 percent of the population of Ohio.
 
->It has not yet been 2 weeks since second dose administration. No one is fully protected by their vaccine yet.
+>Currently fully protected by the vaccine are: 0 people, who received their second round vaccination on or before Jan 11 2021."
 
