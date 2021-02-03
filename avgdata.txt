@@ -1,11 +1,11 @@
-The average increase in cases for the last seven days is: 4260
-The last time cases per day were this high was Feb 01 2021: 1 day ago.
-The seven day average then was: 4346 cases.
+The average increase in cases for the last seven days is: 4063
+The last time cases per day were this high was Feb 02 2021: 1 day ago.
+The seven day average then was: 4260 cases.
 
-The last time cases per day was lower than this was Nov 06 2020: 88 days ago.
+The last time cases per day was lower than this was Nov 06 2020: 89 days ago.
 The seven day average then was: 3914 cases.
 
 Today marks the lowest 7 day average in the last three weeks.
 
-The average increase in hospitalizations for the last seven days is: 198
+The average increase in hospitalizations for the last seven days is: 192
 Today marks the lowest 7 day average in hospitalizations in the last three weeks.
