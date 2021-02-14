@@ -2,7 +2,7 @@
 
 Last updated: Feb 14 2021. 
 
-**Feb 11th begins a "reconciling" of death data for November & December.**
+**Feb 11th-13th represents a "reconciling" of death data for November & December.**
 
 Dec 8th completed a backlog of reporting of antigen test results, dating back to Nov 1st.
 
