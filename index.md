@@ -1,6 +1,6 @@
 ## Plotting publicly available COVID data for the state of Ohio. 
 
-Last updated: Feb 15 2021. 
+Last updated: Feb 16 2021. 
 
 **Feb 11th begins a "reconciling" of death data for November & December.**
 
@@ -11,23 +11,23 @@ No data was reported on Nov 26th (Thanksgiving), Dec 25th (Christmas), or Jan 1s
 The 7 day averages for the daily increase in cases, hospitalizations, ICU admissions, and deaths. If no new cases were reported, these lines would go to zero.
 ![](7dayaverage_cases.png)
 
->The average increase in cases for the last seven days is: 2732.0
+>The average increase in cases for the last seven days is: 2563.0
 >
->The last time cases per day were this high was Feb 14 2021: 1 day ago.
+>The last time cases per day were this high was Feb 15 2021: 1 day ago.
 >
->The seven day average then was: 2733 cases.
+>The seven day average then was: 2732 cases.
 
 >
->The last time cases per day was lower than this was Oct 29 2020: 109 days ago.
+>The last time cases per day was lower than this was Oct 28 2020: 111 days ago.
 >
->The seven day average then was: 2644 cases.
+>The seven day average then was: 2477 cases.
 >
 >Today marks the lowest 7 day average in the last three weeks.
 
 The 7 day averages for the daily increase in hospitalizations, ICU admissions, and deaths. If no new events were reported, these lines would go to zero.
 ![](7dayaverage_hospital.png)
 
->The average increase in hospitalizations per day for the last seven days is: 138
+>The average increase in hospitalizations per day for the last seven days is: 127
 >
 >Today marks the lowest 7 day average in hospitalizations in the last three weeks.
 
@@ -38,15 +38,15 @@ The 7 day average increase in cases, compared to the rate of first round vaccina
 The raw daily increase in cases, hospitalizations, ICU admissions, and deaths. The 7 day average is shown faintly behind the raw data. If no new cases were reported, this line would go to zero.
 ![](DailyCases.png)
 
->The increase in cases from yesterday to today: 1915.0 
+>The increase in cases from yesterday to today: 2026.0 
 >
->The last time cases per day were this high was Feb 13 2021: 2 days ago. 
+>The last time cases per day were this high was Feb 13 2021: 3 days ago. 
 >
 >The case rate then was 2799 cases.
 >
->The last time cases per day were lower than this was Feb 14 2021: 1 day ago. 
+>The last time cases per day were lower than this was Feb 15 2021: 1 day ago. 
 >
->The case rate then was 1809 cases.
+>The case rate then was 1915 cases.
 
 The raw daily increase in hospitalizations, ICU admissions, and deaths. The 7 day average is shown faintly behind the raw data. If no new events were reported, these lines would go to zero.
 ![](DailyHospitalizations.png)
@@ -58,11 +58,7 @@ The increase in the number of reported total tests (navy). A 7 day running avera
 The percent of each day's new reported tests which represent that day's new reported cases.
 ![](percentpositive_tests.png)
 
->The lowest 7 day average reported positive test fraction per day in the last three weeks was on Feb 12 2021.
->
->This was 3 days ago. The average was 7.8 percent positive. 
->
->The current average positive test rate is 7.8 percent, a change of 0.0 percent with respect to then. 
+>Today marks the lowest 7 day average positivity fraction in the last three weeks, at 7.2 percent.
 
 ### Cumulative plots
 The cumulative number of cases, hospitalizations, ICU admissions, and deaths. If no new cases were reported, these lines would be horizontal.
@@ -76,11 +72,11 @@ The cumulative number of first and second round vaccinations. If no new events w
 ![](Vaccinations.png)
 
 >The current total number of first round vaccinations is equivalent to 1 person out of every 9 in the state of Ohio having begun their vaccination sequence.
->This is 11.19 percent of the population of Ohio.
+>This is 11.33 percent of the population of Ohio.
 
->The current total number of second round vaccinations is equivalent to 2 people out of every 49 in the state of Ohio having completed their vaccination sequence.
->This is 4.12 percent of the population of Ohio.
+>The current total number of second round vaccinations is equivalent to 2 people out of every 47 in the state of Ohio having completed their vaccination sequence.
+>This is 4.23 percent of the population of Ohio.
 
->Currently fully protected by the vaccine are: 210330 people, who received their second round vaccination on or before Feb 01 2021.
->This represents 2.11 percent of the population of Ohio.
+>Currently fully protected by the vaccine are: 217054 people, who received their second round vaccination on or before Feb 02 2021.
+>This represents 2.18 percent of the population of Ohio.
 
