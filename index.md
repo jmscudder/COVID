@@ -1,6 +1,6 @@
 ## Plotting publicly available COVID data for the state of Ohio. 
 
-Last updated: Jun 25 2021. 
+Last updated: Jun 26 2021. 
 
 As of March 02, death data is only reported 2x/week, and includes only confirmed cases. March 02 cumulative death counts have dropped due to the missing "probable" cases.
 
@@ -13,29 +13,33 @@ No data was reported on Nov 26th (Thanksgiving), Dec 25th (Christmas), Jan 1st (
 The 7 day averages for the daily increase in cases, hospitalizations, ICU admissions, and deaths. If no new cases were reported, these lines would go to zero.
 ![](7dayaverage_cases.png)
 
->The average increase in cases for the last seven days is: 252.0
+>The average increase in cases for the last seven days is: 259.0
 >
->The last time cases per day were this high was Jun 24 2021: 1 day ago.
+>The last time cases per day were this high was Jun 24 2021: 2 days ago.
 >
 >The seven day average then was: 265 cases.
 
 >
->The last time cases per day was lower than this was Mar 31 2020: 451 days ago.
+>The last time cases per day was lower than this was Jun 25 2021: 1 day ago.
 >
->The seven day average then was: 234 cases.
+>The seven day average then was: 252 cases.
 >
->Today marks the lowest 7 day average in the last three weeks.
+>The lowest 7 day average reported cases per day in the last three weeks was on Jun 25 2021.
+>
+>This was 1 days ago. The average was 252 cases per day.
+>
+>The current 7 day average case rate is an increase of 2.8 percent with respect to that minimum.
 
 The 7 day averages for the daily increase in hospitalizations, ICU admissions, and deaths. If no new events were reported, these lines would go to zero.
 ![](7dayaverage_hospital.png)
 
->The average increase in hospitalizations per day for the last seven days is: 46
+>The average increase in hospitalizations per day for the last seven days is: 44
 >
 >The lowest 7 day average reported hospitalizations per day in the last three weeks was on Jun 15 2021.
 >
->This was 10 days ago. The average was 40 hospitalizations per day.
+>This was 11 days ago. The average was 40 hospitalizations per day.
 >
->The current 7 day average hospitalization rate is an increase of 15.0 percent with respect to then.
+>The current 7 day average hospitalization rate is an increase of 10.0 percent with respect to then.
 
 The 7 day average increase in cases, compared to the rate of first round vaccinations, second round vaccinations, and total number of vaccinations dispensed:
 ![](DailyVaccinationsCases.png)
@@ -44,13 +48,13 @@ The 7 day average increase in cases, compared to the rate of first round vaccina
 The raw daily increase in cases, hospitalizations, ICU admissions, and deaths. The 7 day average is shown faintly behind the raw data. If no new cases were reported, this line would go to zero.
 ![](DailyCases.png)
 
->The increase in cases from yesterday to today: 292.0 
+>The increase in cases from yesterday to today: 254.0 
 >
->The last time cases per day were this high was Jun 24 2021: 1 day ago. 
+>The last time cases per day were this high was Jun 25 2021: 1 day ago. 
 >
->The case rate then was 303 cases.
+>The case rate then was 292 cases.
 >
->The last time cases per day were lower than this was Jun 21 2021: 4 days ago. 
+>The last time cases per day were lower than this was Jun 21 2021: 5 days ago. 
 >
 >The case rate then was 123 cases.
 
@@ -64,7 +68,11 @@ The increase in the number of reported total tests (navy). A 7 day running avera
 The percent of each day's new reported tests which represent that day's new reported cases.
 ![](percentpositive_tests.png)
 
->Today marks the lowest 7 day average positivity fraction in the last three weeks, at 1.3 percent.
+>The lowest 7 day average reported positive test fraction per day in the last three weeks was on Jun 25 2021.
+>
+>This was 1 days ago. The average was 1.3 percent positive. 
+>
+>The current average positive test rate is 1.8 percent, a change of 38.5 percent with respect to then. 
 
 ### Cumulative plots
 The cumulative number of cases, hospitalizations, ICU admissions, and deaths. If no new cases were reported, these lines would be horizontal.
@@ -78,11 +86,11 @@ The cumulative number of first and second round vaccinations. If no new events w
 ![](Vaccinations.png)
 
 >The current total number of first round vaccinations is equivalent to 9 people out of every 19 in the state of Ohio having begun their vaccination sequence, or 11 people out of every 18 people over age 18.
- >This is 47.41 percent of the population of Ohio, and 60.86 percent of the 18+ population.
+ >This is 47.48 percent of the population of Ohio, and 60.95 percent of the 18+ population.
 
->The current total number of second round vaccinations is equivalent to 7 people out of every 16 in the state of Ohio having completed their vaccination sequence, or 9 people out of every 16 people over age 18. 
->This is 43.7 percent of the population of Ohio, and 56.1 percent of the 18+ population.
+>The current total number of second round vaccinations is equivalent to 18 people out of every 41 in the state of Ohio having completed their vaccination sequence, or 9 people out of every 16 people over age 18. 
+>This is 43.86 percent of the population of Ohio, and 56.3 percent of the 18+ population.
 
->Currently fully protected by the vaccine are: 4869845 people, who received their second round vaccination on or before Jun 11 2021.
->This represents 41.62 percent of the population of Ohio, or 53.43 percent of the 18+ population.
+>Currently fully protected by the vaccine are: 4894519 people, who received their second round vaccination on or before Jun 12 2021.
+>This represents 41.83 percent of the population of Ohio, or 53.7 percent of the 18+ population.
 
