@@ -1,6 +1,6 @@
 ## Plotting publicly available COVID data for the state of Ohio. 
 
-Most recent data: Nov 19 2021. 
+Most recent data: Nov 20 2021. 
 
 As of March 02, death data is only reported 2x/week, and includes only confirmed cases. March 02 cumulative death counts have dropped due to the missing "probable" cases.
 
@@ -13,33 +13,33 @@ No data was reported on Nov 26th (Thanksgiving), Dec 25th (Christmas), Jan 1st 2
 The 7 day averages for the daily increase in cases, hospitalizations, ICU admissions, and deaths. If no new cases were reported, these lines would go to zero.
 ![](7dayaverage_cases.png)
 
->The average increase in cases for the last seven days is: 5330.0
+>The average increase in cases for the last seven days is: 5459.0
 >
->The last time cases per day were this high was Oct 10 2021: 40 days ago.
+>The last time cases per day were this high was Oct 08 2021: 43 days ago.
 >
->The seven day average then was: 5369 cases.
+>The seven day average then was: 5506 cases.
 
 >
->The last time cases per day was lower than this was Nov 18 2021: 1 day ago.
+>The last time cases per day was lower than this was Nov 19 2021: 1 day ago.
 >
->The seven day average then was: 5180 cases.
+>The seven day average then was: 5330 cases.
 >
 >The lowest 7 day average reported cases per day in the last three weeks was on Oct 31 2021.
 >
->This was 19 days ago. The average was 3355 cases per day.
+>This was 20 days ago. The average was 3355 cases per day.
 >
->The current 7 day average case rate is an increase of 58.9 percent with respect to that minimum.
+>The current 7 day average case rate is an increase of 62.7 percent with respect to that minimum.
 
 The 7 day averages for the daily increase in hospitalizations, ICU admissions, and deaths. If no new events were reported, these lines would go to zero.
 ![](7dayaverage_hospital.png)
 
->The average increase in hospitalizations per day for the last seven days is: 256
+>The average increase in hospitalizations per day for the last seven days is: 262
 >
 >The lowest 7 day average reported hospitalizations per day in the last three weeks was on Oct 30 2021.
 >
->This was 20 days ago. The average was 159 hospitalizations per day.
+>This was 21 days ago. The average was 159 hospitalizations per day.
 >
->The current 7 day average hospitalization rate is an increase of 61.0 percent with respect to then.
+>The current 7 day average hospitalization rate is an increase of 64.8 percent with respect to then.
 
 The 7 day average increase in cases, compared to the rate of first round vaccinations, second round vaccinations, and total number of vaccinations dispensed:
 ![](DailyVaccinationsCases.png)
@@ -48,15 +48,15 @@ The 7 day average increase in cases, compared to the rate of first round vaccina
 The raw daily increase in cases, hospitalizations, ICU admissions, and deaths. The 7 day average is shown faintly behind the raw data. If no new cases were reported, this line would go to zero.
 ![](DailyCases.png)
 
->The increase in cases from yesterday to today: 6429.0 
+>The increase in cases from yesterday to today: 5590.0 
 >
->The last time cases per day were this high was Nov 18 2021: 1 day ago. 
+>The last time cases per day were this high was Nov 19 2021: 1 day ago. 
 >
->The case rate then was 6615 cases.
+>The case rate then was 6429 cases.
 >
->The last time cases per day were lower than this was Nov 17 2021: 2 days ago. 
+>The last time cases per day were lower than this was Nov 15 2021: 5 days ago. 
 >
->The case rate then was 6382 cases.
+>The case rate then was 3927 cases.
 
 The raw daily increase in hospitalizations, ICU admissions, and deaths. The 7 day average is shown faintly behind the raw data. If no new events were reported, these lines would go to zero.
 ![](DailyHospitalizations.png)
@@ -68,11 +68,11 @@ The increase in the number of reported total tests (navy). A 7 day running avera
 The percent of each day's new reported tests which represent that day's new reported cases.
 ![](percentpositive_tests.png)
 
->The lowest 7 day average reported positive test fraction per day in the last three weeks was on Oct 29 2021.
+>The lowest 7 day average reported positive test fraction per day in the last three weeks was on Oct 31 2021.
 >
->This was 21 days ago. The average was 11.7 percent positive. 
+>This was 20 days ago. The average was 11.9 percent positive. 
 >
->The current average positive test rate is 17.2 percent, a change of 47.0 percent with respect to then. 
+>The current average positive test rate is 17.3 percent, a change of 45.4 percent with respect to then. 
 
 ### Cumulative plots
 The cumulative number of cases, hospitalizations, ICU admissions, and deaths. If no new cases were reported, these lines would be horizontal.
@@ -86,11 +86,11 @@ The cumulative number of first and second round vaccinations. If no new events w
 ![](Vaccinations.png)
 
 >The current total number of first round vaccinations represents to 4 people out of every 7 in the state of Ohio having begun their vaccination sequence, and 13 people out of every 19 people over age 18.
- >This is 56.95 percent of the population of Ohio, and 67.78 percent of the 18+ population.
+ >This is 57.08 percent of the population of Ohio, and 67.86 percent of the 18+ population.
 
 >The current total number of second round vaccinations represents 11 people out of every 21 in the state of Ohio having completed their vaccination sequence, and 12 people out of every 19 people over age 18. 
->This is 52.38 percent of the population of Ohio, and 63.32 percent of the 18+ population.
+>This is 52.43 percent of the population of Ohio, and 63.38 percent of the 18+ population.
 
->Currently fully protected by the vaccine are: 6,062,916 people, who received their second round vaccination on or before Nov 05 2021.
->This represents 51.82 percent of the population of Ohio, and 62.76 percent of adults over 18.
+>Currently fully protected by the vaccine are: 6,064,388 people, who received their second round vaccination on or before Nov 06 2021.
+>This represents 51.83 percent of the population of Ohio, and 62.69 percent of adults over 18.
 
