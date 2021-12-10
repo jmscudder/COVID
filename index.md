@@ -95,5 +95,5 @@ The cumulative number of first and second round vaccinations. If no new events w
 >This represents 52.59 percent of the population of Ohio, and 63.55 percent of adults over 18.
 
 >Currently maximally protected are: 3,272,591 people, who received their second round vaccination on or before Nov 26 2021, and either were vaccinated less than six months ago, or have had a booster.
->This represents 25.76 percent of the population of Ohio, and 35.91 percent of adults over 18.
+>This represents 27.97 percent of the population of Ohio, and 35.91 percent of adults over 18.
 
