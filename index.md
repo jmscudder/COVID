@@ -10,7 +10,7 @@ Feb 11th-28th 2021 involved a "reconciling" of death data for November & Decembe
 
 Dec 8th completed a backlog of reporting of antigen test results, dating back to Nov 1st.
 
-No data was reported on Nov 26th 2020 (Thanksgiving), Dec 25th 2020 (Christmas), Jan 1st 2021 (New Year's), Apr 4th 2021(Easter), July 4th 2021, or Nov 25th 2021 (Thanksgiving).
+No data was reported on Nov 26th 2020 (Thanksgiving), Dec 25th 2020 (Christmas), Jan 1st 2021 (New Year's), Apr 4th 2021 (Easter), July 4th 2021, Nov 25th 2021 (Thanksgiving), or Dec 25th 2021 (Christmas).
 ### 7 day averages
 The 7 day averages for the daily increase in cases, hospitalizations, ICU admissions, and deaths. If no new cases were reported, these lines would go to zero.
 ![](7dayaverage_cases.png)
