@@ -10,10 +10,10 @@ Dec 8th completed a backlog of reporting of antigen test results, dating back to
 
 No data was reported on Nov 26th 2020 (Thanksgiving), Dec 25th 2020 (Christmas), Jan 1st 2021 (New Year's), Apr 4th 2021 (Easter), July 4th 2021, Nov 25th 2021 (Thanksgiving), or Dec 25th 2021 (Christmas).
 ### 7 day averages
-The 7 day averages for the daily increase in cases, hospitalizations, ICU admissions, and deaths. If no new cases were reported, these lines would go to zero.
+The 7 day averages for the daily increase in cases. If no new cases were reported, these lines would go to zero.
 ![](7dayaverage_cases.png)
 
->The average increase in cases for the last seven days is: 14131.0
+>The average increase in reported cases for the last seven days is: 14131.0
 >
 >This is the highest the 7 day average increase in cases has ever been.
 >
@@ -58,6 +58,10 @@ The raw daily increase in cases, hospitalizations, ICU admissions, and deaths. T
 The raw daily increase in hospitalizations, ICU admissions, and deaths. The 7 day average is shown faintly behind the raw data. If no new events were reported, these lines would go to zero.
 ![](DailyHospitalizations.png)
 
+### Case rates/100K 
+
+The number of positive cases per 100,000 people in the state of Ohio (gray). This is an estimate based on the number of cases reported with onsets within the last two weeks, per 100K people.
+![](7dayaverage_rate.png)
 ### Testing
 
 The increase in the number of reported total tests (navy). A 7 day running average is shown in black.
