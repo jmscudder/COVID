@@ -2,14 +2,13 @@
 
 Most recent data: Jan 04 2022. 
 
-### Data source change
+#### Data source change
 I have changed to using the summary data posted by the state of Ohio for the new case rate,
     new hospitalization, and new death plots. This requires an omission of the three most recent dates,
                        as the data is very incomplete. The values for the previous week may change over time.
                        However, in general these numbers trace the daily reported numbers well, and it has the benefit
                        of reducing noise from days with no data reported, or spikes from backlog reporting. 
-
-                       Vaccination data does not have the most recent data excluded.
+Vaccination data does not have the most recent data excluded.
 
 ### 7 day averages
 The 7 day averages for the daily increase in cases. If no new cases were reported, these lines would go to zero.
@@ -67,11 +66,11 @@ The increase in the number of reported total tests (navy). A 7 day running avera
 The percent of each day's new reported tests which represent that day's new reported cases.
 ![](percentpositive_tests.png)
 
->The lowest 7 day average reported positive test fraction per day in the last three weeks was on Dec 09 2021.
+>The lowest 7 day average reported positive test fraction per day in the last three weeks was on Dec 12 2021.
 >
->This was 21 days ago. The average was 16.1 percent positive. 
+>This was 21 days ago. The average was 16.2 percent positive. 
 >
->The current average positive test rate is 28.5 percent, a change of 77.0 percent with respect to then. 
+>The current average positive test rate is 31.7 percent, a change of 95.7 percent with respect to then. 
 
 ### Cumulative plots
 The cumulative number of cases, hospitalizations, ICU admissions, and deaths. If no new cases were reported, these lines would be horizontal.
