@@ -51,7 +51,10 @@ The raw daily increase in cases, hospitalizations, ICU admissions, and deaths. T
 
 >The provisional increase in cases from Jan 04 to Jan 05: 17804.0 
 >
->This is the highest the single day increase in cases has ever been.
+>The last time cases per day were this high was Jan 03 2022: 1 day prior. 
+>
+>The case rate then was 26525 cases.
+>
 >The last time cases per day were lower than this was Jan 02 2022: 2 days prior. 
 >
 >The case rate then was 13312 cases.
