@@ -1,6 +1,6 @@
 ## Plotting publicly available COVID data for the state of Ohio. 
 
-Most recent data: Jan 27 2022. 
+Most recent data: Jan 28 2022. 
 
 #### Data source change
 I have changed to using the summary data posted by the state of Ohio for the new case rate,
@@ -13,25 +13,25 @@ I have changed to using the summary data posted by the state of Ohio for the new
 The 7 day averages for the daily increase in cases. If no new cases were reported, these lines would go to zero.
 ![](7dayaverage_cases.png)
 
->The average increase in reported cases for the seven days ending on Jan 24 is: 13029.0
+>The average increase in reported cases for the seven days ending on Jan 25 is: 11756.0
 >
->The last time cases per day were this high was Jan 23 2022: 1 day prior.
+>The last time cases per day were this high was Jan 24 2022: 1 day prior.
 >
->The seven day average then was: 13431 cases.
+>The seven day average then was: 13139 cases.
 
 >
->The last time cases per day was lower than this was Dec 25 2021: 30 days prior.
+>The last time cases per day was lower than this was Dec 21 2021: 35 days prior.
 >
->The seven day average then was: 12528 cases.
+>The seven day average then was: 11306 cases.
 >
->Jan 24 marks the lowest 7 day average in the last three weeks.
+>Jan 25 marks the lowest 7 day average in the last three weeks.
 
 The 7 day averages for the daily increase in hospitalizations and deaths. If no new events were reported, these lines would go to zero.
 ![](7dayaverage_hospital.png)
 
->The average increase in hospitalizations per day for the seven days ending on Jan 24 is: 227
+>The average increase in hospitalizations per day for the seven days ending on Jan 25 is: 228
 >
->Jan 24 marks the lowest 7 day average in hospitalizations in the last three weeks.
+>Jan 25 marks the lowest 7 day average in hospitalizations in the last three weeks.
 
 The 7 day average increase in cases, compared to the rate of first round vaccinations, second round vaccinations, and total number of vaccinations dispensed:
 ![](DailyVaccinationsCases.png)
@@ -40,15 +40,15 @@ The 7 day average increase in cases, compared to the rate of first round vaccina
 The raw daily increase in cases, hospitalizations, and deaths. The 7 day average is shown faintly behind the raw data. If no new cases were reported, this line would go to zero.
 ![](DailyCases.png)
 
->The provisional increase in cases from Jan 23 to Jan 24: 12729.0 
+>The provisional increase in cases from Jan 24 to Jan 25: 10687.0 
 >
->The last time cases per day were this high was Jan 20 2022: 4 days prior. 
+>The last time cases per day were this high was Jan 24 2022: 1 day prior. 
 >
->The case rate then was 15523 cases.
+>The case rate then was 12280 cases.
 >
->The last time cases per day were lower than this was Jan 23 2022: 1 day prior. 
+>The last time cases per day were lower than this was Jan 23 2022: 2 days prior. 
 >
->The case rate then was 5569 cases.
+>The case rate then was 5615 cases.
 
 The raw daily increase in hospitalizations, ICU admissions, and deaths. The 7 day average is shown faintly behind the raw data. If no new events were reported, these lines would go to zero.
 ![](DailyHospitalizations.png)
@@ -64,7 +64,7 @@ The increase in the number of reported total tests (navy). A 7 day running avera
 The percent of each day's new reported tests which represent that day's new reported cases.
 ![](percentpositive_tests.png)
 
->Today marks the lowest 7 day average positivity fraction in the last three weeks, at 26.4 percent.
+>Today marks the lowest 7 day average positivity fraction in the last three weeks, at 25.5 percent.
 
 ### Cumulative plots
 The cumulative number of cases, hospitalizations, ICU admissions, and deaths. If no new cases were reported, these lines would be horizontal.
@@ -78,14 +78,14 @@ The cumulative number of first and second round vaccinations. If no new events w
 ![](Vaccinations.png)
 
 >The current total number of first round vaccinations represents to 11 people out of every 18 in the state of Ohio having begun their vaccination sequence.
->This is 61.21 percent of the population of Ohio.
+>This is 61.24 percent of the population of Ohio.
 
 >The current total number of second round vaccinations represents 9 people out of every 16 in the state of Ohio having completed their vaccination sequence.
->This is 56.22 percent of the population of Ohio.
+>This is 56.27 percent of the population of Ohio.
 
->Currently fully vaccinated (2 weeks past a second dose) are: 6,517,855 people, who received their second round vaccination on or before Jan 19 2022.
->This represents 55.71 percent of the population of Ohio.
+>Currently fully vaccinated (2 weeks past a second dose) are: 6,528,484 people, who received their second round vaccination on or before Jan 21 2022.
+>This represents 55.8 percent of the population of Ohio.
 
->Currently maximally protected are: 3,151,451 people, who received their third vaccination dose on or before Jan 19 2022.
->This represents 26.94 percent of the population of Ohio.
+>Currently maximally protected are: 3,183,406 people, who received their third vaccination dose on or before Jan 21 2022.
+>This represents 27.21 percent of the population of Ohio.
 
