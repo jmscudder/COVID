@@ -2,12 +2,9 @@
 
 Most recent data: Feb 12 2022. 
 
-#### Data source change
-I have changed to using the summary data posted by the state of Ohio for the new case rate,
-    new hospitalization, and new death plots. This requires an omission of the three most recent dates,
-                       as the data is very incomplete. Values for the previous two weeks may change, and are flagged by a paler tone color in the plots below.
-                       In general these numbers trace the daily reported numbers well, and it has the benefit
-                       of reducing noise from days with no data reported, or spikes from backlog reporting. 
+#### Data source
+These plots are made using the summary data posted by the state of Ohio for the new case rate,
+    new hospitalization, and new death plots. The three most recent dates are omitted, as the data is very incomplete. Values for the most recent two weeks may change, and are flagged by a paler tone color in the plots below. 
 
 ### 7 day averages
 The 7 day averages for the daily increase in cases. If no new cases were reported, these lines would go to zero.
