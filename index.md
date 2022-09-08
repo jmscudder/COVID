@@ -69,13 +69,14 @@ The cumulative number of hospitalizations, ICU admissions, and deaths. If no new
 The cumulative number of first and second round vaccinations. If no new events were reported, these lines would be horizontal.
 ![](Vaccinations.png)
 
->This is 0.0 percent of the population of Ohio.
+>The current total number of first round vaccinations represents to 7 people out of every 11 in the state of Ohio having begun their vaccination sequence.
+>This is 63.74 percent of the population of Ohio.
 
->Currently fully vaccinated (2 weeks past a second dose) are: 7,443,472 people, who received their second round vaccination on or before Aug 31 2022.
->This represents 63.62 percent of the population of Ohio.
+>Currently fully vaccinated (2 weeks past a second dose) are: 6,898,880 people, who received their second round vaccination on or before Aug 31 2022.
+>This represents 58.96 percent of the population of Ohio.
 
->Currently up to date with 2nd boosters are: 3,773,229 people, who received their second booster dose on or before Aug 31 2022.
->This represents 32.25 percent of the population of Ohio.
+>Currently up to date with 2nd boosters are: 848,058 people, who received their second booster dose on or before Aug 31 2022.
+>This represents 7.25 percent of the population of Ohio.
 
 ### Archival: Testing
 **These figures cannot be updated as Ohio Dept. of Health is no longer reporting testing data.**
