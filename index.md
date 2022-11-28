@@ -1,6 +1,6 @@
 ## Plotting publicly available COVID data for the state of Ohio. 
 
-Most recent data: Nov 17 2022. 
+Most recent data: Nov 23 2022. 
 
 #### Data source
 These plots are made using the summary data posted by the state of Ohio for the new case rate,
@@ -14,25 +14,29 @@ Ohio has transitioned to updating its dashboards once a week, on Thursdays. Data
 The 7 day averages for the daily increase in cases. If no new cases were reported, these lines would go to zero.
 ![](7dayaverage_cases.png)
 
->The average increase in reported cases for the seven days ending on Nov 14 is: 1282.0
+>The average increase in reported cases for the seven days ending on Nov 20 is: 1426.0
 >
->The last time cases per day were this high was Nov 13 2022: 1 day prior.
+>The last time cases per day were this high was Nov 19 2022: 1 day prior.
 >
->The seven day average then was: 1311 cases.
+>The seven day average then was: 1430 cases.
 
 >
->The last time cases per day was lower than this was Apr 26 2022: 202 days prior.
+>The last time cases per day was lower than this was Nov 18 2022: 2 days prior.
 >
->The seven day average then was: 1251 cases.
+>The seven day average then was: 1426 cases.
 >
->Nov 14 marks the lowest 7 day average in the last three weeks.
+>The lowest 7 day average reported cases per day in the last three weeks was on Nov 14 2022.
+>
+>This was 6 days prior. The average was 1349 cases per day.
+>
+>The 7 day average case rate on Nov 20 is an increase of 5.7 percent with respect to that minimum.
 
 The 7 day averages for the daily increase in hospitalizations and deaths. If no new events were reported, these lines would go to zero.
 ![](7dayaverage_hospital.png)
 
->The average increase in hospitalizations per day for the seven days ending on Nov 14 is: 45
+>The average increase in hospitalizations per day for the seven days ending on Nov 20 is: 46
 >
->Nov 14 marks the lowest 7 day average in hospitalizations in the last three weeks.
+>Nov 20 marks the lowest 7 day average in hospitalizations in the last three weeks.
 
 The 7 day average increase in cases, compared to the rate of first round vaccinations, second round vaccinations, and total number of vaccinations dispensed:
 ![](DailyVaccinationsCases.png)
@@ -41,15 +45,15 @@ The 7 day average increase in cases, compared to the rate of first round vaccina
 The raw daily increase in cases, hospitalizations, and deaths. The 7 day average is shown faintly behind the raw data. If no new cases were reported, this line would go to zero.
 ![](DailyCases.png)
 
->The provisional increase in cases from Nov 13 to Nov 14: 1617.0 
+>The provisional increase in cases from Nov 19 to Nov 20: 971.0 
 >
->The last time cases per day were this high was Nov 07 2022: 7 days prior. 
+>The last time cases per day were this high was Nov 18 2022: 2 days prior. 
 >
->The case rate then was 1819 cases.
+>The case rate then was 1372 cases.
 >
->The last time cases per day were lower than this was Nov 13 2022: 1 day prior. 
+>The last time cases per day were lower than this was Nov 19 2022: 1 day prior. 
 >
->The case rate then was 905 cases.
+>The case rate then was 955 cases.
 
 The raw daily increase in hospitalizations, ICU admissions, and deaths. The 7 day average is shown faintly behind the raw data. If no new events were reported, these lines would go to zero.
 ![](DailyHospitalizations.png)
@@ -70,13 +74,13 @@ The cumulative number of first and second round vaccinations. If no new events w
 ![](Vaccinations.png)
 
 >The current total number of first round vaccinations represents to 9 people out of every 14 in the state of Ohio having begun their vaccination sequence.
->This is 64.37 percent of the population of Ohio.
+>This is 64.41 percent of the population of Ohio.
 
->Currently fully vaccinated (2 weeks past a second dose) are: 6,965,612 people, who received their second round vaccination on or before Nov 09 2022.
->This represents 59.54 percent of the population of Ohio.
+>Currently fully vaccinated (2 weeks past a second dose) are: 6,970,535 people, who received their second round vaccination on or before Nov 15 2022.
+>This represents 59.58 percent of the population of Ohio.
 
->Currently up to date with bivalent boosters are: 1,165,229 people, who received their second booster dose on or before Nov 09 2022.
->This represents 9.96 percent of the population of Ohio.
+>Currently up to date with bivalent boosters are: 1,254,031 people, who received their second booster dose on or before Nov 15 2022.
+>This represents 10.72 percent of the population of Ohio.
 
 ### Archival: Testing
 **These figures cannot be updated as Ohio Dept. of Health is no longer reporting testing data.**
