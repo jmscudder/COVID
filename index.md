@@ -69,7 +69,7 @@ The cumulative number of hospitalizations, ICU admissions, and deaths. If no new
 The cumulative number of first and second round vaccinations. If no new events were reported, these lines would be horizontal.
 ![](Vaccinations.png)
 
->Currently up to date with 2023 boosters are: 6,165 people, who received their second booster dose on or before Sep 27 2023.
+>Currently most protected from current variants by 2023 boosters are: 6,165 people, who received their 2023 booster dose on or before Sep 27 2023.
 >This represents 0.05 percent of the population of Ohio.
 
 ### Archival: Testing
