@@ -69,14 +69,8 @@ The cumulative number of hospitalizations, ICU admissions, and deaths. If no new
 The cumulative number of first and second round vaccinations. If no new events were reported, these lines would be horizontal.
 ![](Vaccinations.png)
 
->The current total number of first round vaccinations represents to 13 people out of every 20 in the state of Ohio having begun their vaccination sequence.
->This is 65.07 percent of the population of Ohio.
-
->Currently fully vaccinated (2 weeks past a second dose) are: 7,049,141 people, who received their second round vaccination on or before Sep 27 2023.
->This represents 60.25 percent of the population of Ohio.
-
->Currently up to date with bivalent boosters are: 1,927,639 people, who received their second booster dose on or before Sep 27 2023.
->This represents 16.48 percent of the population of Ohio.
+>Currently up to date with 2023 boosters are: 6,165 people, who received their second booster dose on or before Sep 27 2023.
+>This represents 0.05 percent of the population of Ohio.
 
 ### Archival: Testing
 **These figures cannot be updated as Ohio Dept. of Health is no longer reporting testing data.**
