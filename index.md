@@ -1,6 +1,6 @@
 ## Plotting publicly available COVID data for the state of Ohio. 
 
-Most recent data: Nov 30 2023. 
+Most recent data: Dec 07 2023. 
 
 #### Data source
 These plots are made using the summary data posted by the state of Ohio for the new case rate,
@@ -14,33 +14,33 @@ Ohio has transitioned to updating its dashboards once a week, on Thursdays. Data
 The 7 day averages for the daily increase in cases. If no new cases were reported, these lines would go to zero.
 ![](7dayaverage_cases.png)
 
->The average increase in reported cases for the seven days ending on Nov 27 is: 1433.0
+>The average increase in reported cases for the seven days ending on Dec 04 is: 1766.0
 >
->The last time cases per day were this high was Sep 11 2023: 77 days prior.
+>The last time cases per day were this high was Dec 03 2023: 1 day prior.
 >
->The seven day average then was: 1463 cases.
+>The seven day average then was: 1818 cases.
 
 >
->The last time cases per day was lower than this was Nov 26 2023: 1 day prior.
+>The last time cases per day was lower than this was Nov 29 2023: 5 days prior.
 >
->The seven day average then was: 1353 cases.
+>The seven day average then was: 1620 cases.
 >
->The lowest 7 day average reported cases per day in the last three weeks was on Nov 06 2023.
+>The lowest 7 day average reported cases per day in the last three weeks was on Nov 13 2023.
 >
->This was 21 days prior. The average was 1013 cases per day.
+>This was 21 days prior. The average was 1218 cases per day.
 >
->The 7 day average case rate on Nov 27 is an increase of 41.5 percent with respect to that minimum.
+>The 7 day average case rate on Dec 04 is an increase of 45.0 percent with respect to that minimum.
 
 The 7 day averages for the daily increase in hospitalizations and deaths. If no new events were reported, these lines would go to zero.
 ![](7dayaverage_hospital.png)
 
->The average increase in hospitalizations per day for the seven days ending on Nov 27 is: 46
+>The average increase in hospitalizations per day for the seven days ending on Dec 04 is: 44
 >
->The lowest 7 day average reported hospitalizations per day in the last three weeks was on Nov 06 2023.
+>The lowest 7 day average reported hospitalizations per day in the last three weeks was on Nov 14 2023.
 >
->This was 21 days prior. The average was 34 hospitalizations per day.
+>This was 20 days prior. The average was 42 hospitalizations per day.
 >
->The current 7 day average hospitalization rate is an increase of 35.3 percent with respect to then.
+>The current 7 day average hospitalization rate is an increase of 4.8 percent with respect to then.
 
 The 7 day average increase in cases, compared to the rate of first round vaccinations, second round vaccinations, and total number of vaccinations dispensed:
 ![](DailyVaccinationsCases.png)
@@ -49,15 +49,15 @@ The 7 day average increase in cases, compared to the rate of first round vaccina
 The raw daily increase in cases, hospitalizations, and deaths. The 7 day average is shown faintly behind the raw data. If no new cases were reported, this line would go to zero.
 ![](DailyCases.png)
 
->The provisional increase in cases from Nov 26 to Nov 27: 2363.0 
+>The provisional increase in cases from Dec 03 to Dec 04: 2161.0 
 >
->The last time cases per day were this high was Jan 03 2023: 328 days prior. 
+>The last time cases per day were this high was Nov 27 2023: 7 days prior. 
 >
->The case rate then was 2439 cases.
+>The case rate then was 2527 cases.
 >
->The last time cases per day were lower than this was Nov 26 2023: 1 day prior. 
+>The last time cases per day were lower than this was Dec 03 2023: 1 day prior. 
 >
->The case rate then was 1348 cases.
+>The case rate then was 1296 cases.
 
 The raw daily increase in hospitalizations, ICU admissions, and deaths. The 7 day average is shown faintly behind the raw data. If no new events were reported, these lines would go to zero.
 ![](DailyHospitalizations.png)
@@ -77,8 +77,8 @@ The cumulative number of hospitalizations, ICU admissions, and deaths. If no new
 The cumulative number of first and second round vaccinations. If no new events were reported, these lines would be horizontal.
 ![](Vaccinations.png)
 
->Currently most protected from current variants by 2023 boosters are: 994,015 people, who received their 2023 booster dose on or before Nov 22 2023.
->This represents 8.5 percent of the population of Ohio.
+>Currently most protected from current variants by 2023 boosters are: 1,043,102 people, who received their 2023 booster dose on or before Nov 30 2023.
+>This represents 8.92 percent of the population of Ohio.
 
 ### Archival: Testing
 **These figures cannot be updated as Ohio Dept. of Health is no longer reporting testing data.**
