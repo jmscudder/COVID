@@ -1,6 +1,6 @@
 ## Plotting publicly available COVID data for the state of Ohio. 
 
-Most recent data: Feb 01 2024. 
+Most recent data: Feb 08 2024. 
 
 #### Data source
 These plots are made using the summary data posted by the state of Ohio for the new case rate,
@@ -14,25 +14,29 @@ Ohio has transitioned to updating its dashboards once a week, on Thursdays. Data
 The 7 day averages for the daily increase in cases. If no new cases were reported, these lines would go to zero.
 ![](7dayaverage_cases.png)
 
->The average increase in reported cases for the seven days ending on Jan 29 is: 979.0
+>The average increase in reported cases for the seven days ending on Feb 05 is: 956.0
 >
->The last time cases per day were this high was Jan 28 2024: 1 day prior.
+>The last time cases per day were this high was Feb 03 2024: 2 days prior.
 >
->The seven day average then was: 1007 cases.
+>The seven day average then was: 959 cases.
 
 >
->The last time cases per day was lower than this was Nov 03 2023: 87 days prior.
+>The last time cases per day was lower than this was Feb 04 2024: 1 day prior.
 >
->The seven day average then was: 957 cases.
+>The seven day average then was: 952 cases.
 >
->Jan 29 marks the lowest 7 day average in the last three weeks.
+>The lowest 7 day average reported cases per day in the last three weeks was on Feb 04 2024.
+>
+>This was 1 days prior. The average was 952 cases per day.
+>
+>The 7 day average case rate on Feb 05 is an increase of 0.4 percent with respect to that minimum.
 
 The 7 day averages for the daily increase in hospitalizations and deaths. If no new events were reported, these lines would go to zero.
 ![](7dayaverage_hospital.png)
 
->The average increase in hospitalizations per day for the seven days ending on Jan 29 is: 27
+>The average increase in hospitalizations per day for the seven days ending on Feb 05 is: 22
 >
->Jan 29 marks the lowest 7 day average in hospitalizations in the last three weeks.
+>Feb 05 marks the lowest 7 day average in hospitalizations in the last three weeks.
 
 The 7 day average increase in cases, compared to the rate of first round vaccinations, second round vaccinations, and total number of vaccinations dispensed:
 ![](DailyVaccinationsCases.png)
@@ -41,15 +45,15 @@ The 7 day average increase in cases, compared to the rate of first round vaccina
 The raw daily increase in cases, hospitalizations, and deaths. The 7 day average is shown faintly behind the raw data. If no new cases were reported, this line would go to zero.
 ![](DailyCases.png)
 
->The provisional increase in cases from Jan 28 to Jan 29: 1127.0 
+>The provisional increase in cases from Feb 04 to Feb 05: 1207.0 
 >
->The last time cases per day were this high was Jan 23 2024: 6 days prior. 
+>The last time cases per day were this high was Jan 23 2024: 13 days prior. 
 >
->The case rate then was 1233 cases.
+>The case rate then was 1245 cases.
 >
->The last time cases per day were lower than this was Jan 28 2024: 1 day prior. 
+>The last time cases per day were lower than this was Feb 04 2024: 1 day prior. 
 >
->The case rate then was 671 cases.
+>The case rate then was 676 cases.
 
 The raw daily increase in hospitalizations, ICU admissions, and deaths. The 7 day average is shown faintly behind the raw data. If no new events were reported, these lines would go to zero.
 ![](DailyHospitalizations.png)
@@ -69,8 +73,8 @@ The cumulative number of hospitalizations, ICU admissions, and deaths. If no new
 The cumulative number of first and second round vaccinations. If no new events were reported, these lines would be horizontal.
 ![](Vaccinations.png)
 
->Currently most protected from current variants by 2023 boosters are: 1,282,793 people, who received their 2023 booster dose on or before Jan 24 2024.
->This represents 10.96 percent of the population of Ohio.
+>Currently most protected from current variants by 2023 boosters are: 1,297,497 people, who received their 2023 booster dose on or before Jan 31 2024.
+>This represents 11.09 percent of the population of Ohio.
 
 ### Archival: Testing
 **These figures cannot be updated as Ohio Dept. of Health is no longer reporting testing data.**
