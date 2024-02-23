@@ -1,6 +1,6 @@
 ## Plotting publicly available COVID data for the state of Ohio. 
 
-Most recent data: Feb 15 2024. 
+Most recent data: Feb 22 2024. 
 
 #### Data source
 These plots are made using the summary data posted by the state of Ohio for the new case rate,
@@ -14,29 +14,29 @@ Ohio has transitioned to updating its dashboards once a week, on Thursdays. Data
 The 7 day averages for the daily increase in cases. If no new cases were reported, these lines would go to zero.
 ![](7dayaverage_cases.png)
 
->The average increase in reported cases for the seven days ending on Feb 12 is: 977.0
+>The average increase in reported cases for the seven days ending on Feb 19 is: 848.0
 >
->The last time cases per day were this high was Feb 11 2024: 1 day prior.
+>The last time cases per day were this high was Feb 18 2024: 1 day prior.
 >
->The seven day average then was: 991 cases.
+>The seven day average then was: 888 cases.
 
 >
->The last time cases per day was lower than this was Feb 04 2024: 8 days prior.
+>The last time cases per day was lower than this was Oct 21 2023: 121 days prior.
 >
->The seven day average then was: 969 cases.
+>The seven day average then was: 846 cases.
 >
->The lowest 7 day average reported cases per day in the last three weeks was on Feb 04 2024.
->
->This was 8 days prior. The average was 969 cases per day.
->
->The 7 day average case rate on Feb 12 is an increase of 0.8 percent with respect to that minimum.
+>Feb 19 marks the lowest 7 day average in the last three weeks.
 
 The 7 day averages for the daily increase in hospitalizations and deaths. If no new events were reported, these lines would go to zero.
 ![](7dayaverage_hospital.png)
 
->The average increase in hospitalizations per day for the seven days ending on Feb 12 is: 25
+>The average increase in hospitalizations per day for the seven days ending on Feb 19 is: 27
 >
->Feb 12 marks the lowest 7 day average in hospitalizations in the last three weeks.
+>The lowest 7 day average reported hospitalizations per day in the last three weeks was on Feb 17 2024.
+>
+>This was 2 days prior. The average was 26 hospitalizations per day.
+>
+>The current 7 day average hospitalization rate is an increase of 3.8 percent with respect to then.
 
 The 7 day average increase in cases, compared to the rate of first round vaccinations, second round vaccinations, and total number of vaccinations dispensed:
 ![](DailyVaccinationsCases.png)
@@ -45,15 +45,15 @@ The 7 day average increase in cases, compared to the rate of first round vaccina
 The raw daily increase in cases, hospitalizations, and deaths. The 7 day average is shown faintly behind the raw data. If no new cases were reported, this line would go to zero.
 ![](DailyCases.png)
 
->The provisional increase in cases from Feb 11 to Feb 12: 1195.0 
+>The provisional increase in cases from Feb 18 to Feb 19: 959.0 
 >
->The last time cases per day were this high was Feb 05 2024: 7 days prior. 
+>The last time cases per day were this high was Feb 15 2024: 4 days prior. 
 >
->The case rate then was 1296 cases.
+>The case rate then was 1014 cases.
 >
->The last time cases per day were lower than this was Feb 11 2024: 1 day prior. 
+>The last time cases per day were lower than this was Feb 18 2024: 1 day prior. 
 >
->The case rate then was 644 cases.
+>The case rate then was 577 cases.
 
 The raw daily increase in hospitalizations, ICU admissions, and deaths. The 7 day average is shown faintly behind the raw data. If no new events were reported, these lines would go to zero.
 ![](DailyHospitalizations.png)
@@ -73,8 +73,8 @@ The cumulative number of hospitalizations, ICU admissions, and deaths. If no new
 The cumulative number of first and second round vaccinations. If no new events were reported, these lines would be horizontal.
 ![](Vaccinations.png)
 
->Currently most protected from current variants by 2023 boosters are: 1,312,748 people, who received their 2023 booster dose on or before Feb 07 2024.
->This represents 11.22 percent of the population of Ohio.
+>Currently most protected from current variants by 2023 boosters are: 1,321,560 people, who received their 2023 booster dose on or before Feb 13 2024.
+>This represents 11.3 percent of the population of Ohio.
 
 ### Archival: Testing
 **These figures cannot be updated as Ohio Dept. of Health is no longer reporting testing data.**
