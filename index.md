@@ -1,6 +1,6 @@
 ## Plotting publicly available COVID data for the state of Ohio. 
 
-Most recent data: Apr 24 2024. 
+Most recent data: May 01 2024. 
 
 #### Data source
 These plots are made using the summary data posted by the state of Ohio for the new case rate,
@@ -14,25 +14,25 @@ Ohio has transitioned to updating its dashboards once a week, on Thursdays. Data
 The 7 day averages for the daily increase in cases. If no new cases were reported, these lines would go to zero.
 ![](7dayaverage_cases.png)
 
->The average increase in reported cases for the seven days ending on Apr 17 is: 155.0
+>The average increase in reported cases for the seven days ending on Apr 24 is: 141.0
 >
->The last time cases per day were this high was Apr 10 2024: 7 days prior.
+>The last time cases per day were this high was Apr 17 2024: 7 days prior.
 >
->The seven day average then was: 240 cases.
+>The seven day average then was: 179 cases.
 
 >
->The last time cases per day was lower than this was Mar 11 2020: 1498 days prior.
+>The last time cases per day was lower than this was Mar 11 2020: 1505 days prior.
 >
 >The seven day average then was: 53 cases.
 >
->Apr 17 marks the lowest 7 day average in the last three weeks.
+>Apr 24 marks the lowest 7 day average in the last three weeks.
 
 The 7 day averages for the daily increase in hospitalizations and deaths. If no new events were reported, these lines would go to zero.
 ![](7dayaverage_hospital.png)
 
->The average increase in hospitalizations per day for the seven days ending on Apr 17 is: 13
+>The average increase in hospitalizations per day for the seven days ending on Apr 24 is: 13
 >
->Apr 17 marks the lowest 7 day average in hospitalizations in the last three weeks.
+>Apr 24 marks the lowest 7 day average in hospitalizations in the last three weeks.
 
 The 7 day average increase in cases, compared to the rate of first round vaccinations, second round vaccinations, and total number of vaccinations dispensed:
 ![](DailyVaccinationsCases.png)
@@ -52,8 +52,8 @@ The cumulative number of hospitalizations, ICU admissions, and deaths. If no new
 The cumulative number of first and second round vaccinations. If no new events were reported, these lines would be horizontal.
 ![](Vaccinations.png)
 
->Currently most protected from current variants by 2023 boosters are: 1,367,189 people, who received their 2023 booster dose on or before Apr 10 2024.
->This represents 11.69 percent of the population of Ohio.
+>Currently most protected from current variants by 2023 boosters are: 1,371,342 people, who received their 2023 booster dose on or before Apr 17 2024.
+>This represents 11.72 percent of the population of Ohio.
 
 ### Archival: Raw Data
 **These figures cannot be updated as Ohio Dept. of Health is now only reporting case data by week and not the daily case data.**
