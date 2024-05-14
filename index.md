@@ -14,11 +14,11 @@ Ohio has transitioned to updating its dashboards once a week, on Thursdays. Data
 The 7 day averages for the daily increase in cases. If no new cases were reported, these lines would go to zero.
 ![](7dayaverage_cases.png)
 
->The average increase in reported cases for the seven days ending on May 01 is: 133.0
+>The average increase in reported cases for the seven days ending on May 01 is: 153.0
 >
 >The last time cases per day were this high was Apr 24 2024: 7 days prior.
 >
->The seven day average then was: 160 cases.
+>The seven day average then was: 161 cases.
 
 >
 >The last time cases per day was lower than this was Mar 11 2020: 1512 days prior.
@@ -30,7 +30,7 @@ The 7 day averages for the daily increase in cases. If no new cases were reporte
 The 7 day averages for the daily increase in hospitalizations and deaths. If no new events were reported, these lines would go to zero.
 ![](7dayaverage_hospital.png)
 
->The average increase in hospitalizations per day for the seven days ending on May 01 is: 14
+>The average increase in hospitalizations per day for the seven days ending on May 01 is: 10
 >
 >May 01 marks the lowest 7 day average in hospitalizations in the last three weeks.
 
@@ -52,8 +52,8 @@ The cumulative number of hospitalizations, ICU admissions, and deaths. If no new
 The cumulative number of first and second round vaccinations. If no new events were reported, these lines would be horizontal.
 ![](Vaccinations.png)
 
->Currently most protected from current variants by 2023 boosters are: 1,374,058 people, who received their 2023 booster dose on or before Apr 24 2024.
->This represents 11.74 percent of the population of Ohio.
+>Currently most protected from current variants by 2023 boosters are: 1,377,919 people, who received their 2023 booster dose on or before May 01 2024.
+>This represents 11.78 percent of the population of Ohio.
 
 ### Archival: Raw Data
 **These figures cannot be updated as Ohio Dept. of Health is now only reporting case data by week and not the daily case data.**
