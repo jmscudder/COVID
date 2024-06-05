@@ -14,23 +14,23 @@ Ohio has transitioned to updating its dashboards once a week, on Thursdays. Data
 The 7 day averages for the daily increase in cases. If no new cases were reported, these lines would go to zero.
 ![](7dayaverage_cases.png)
 
->The average increase in reported cases for the seven days ending on May 22 is: 105.0
+>The average increase in reported cases for the seven days ending on May 22 is: 120.0
 >
->The last time cases per day were this high was May 15 2024: 7 days prior.
+>The last time cases per day were this high was May 01 2024: 21 days prior.
 >
->The seven day average then was: 112 cases.
+>The seven day average then was: 155 cases.
 
 >
->The last time cases per day was lower than this was Mar 11 2020: 1533 days prior.
+>The last time cases per day was lower than this was May 15 2024: 7 days prior.
 >
->The seven day average then was: 53 cases.
+>The seven day average then was: 113 cases.
 >
 >May 22 marks the lowest 7 day average in the last three weeks.
 
 The 7 day averages for the daily increase in hospitalizations and deaths. If no new events were reported, these lines would go to zero.
 ![](7dayaverage_hospital.png)
 
->The average increase in hospitalizations per day for the seven days ending on May 22 is: 4
+>The average increase in hospitalizations per day for the seven days ending on May 22 is: 5
 >
 >May 22 marks the lowest 7 day average in hospitalizations in the last three weeks.
 
@@ -52,8 +52,8 @@ The cumulative number of hospitalizations, ICU admissions, and deaths. If no new
 The cumulative number of first and second round vaccinations. If no new events were reported, these lines would be horizontal.
 ![](Vaccinations.png)
 
->Currently most protected from current variants by 2023 boosters are: 1,382,838 people, who received their 2023 booster dose on or before May 15 2024.
->This represents 11.82 percent of the population of Ohio.
+>Currently most protected from current variants by 2023 boosters are: 1,398,043 people, who received their 2023 booster dose on or before May 22 2024.
+>This represents 11.95 percent of the population of Ohio.
 
 ### Archival: Raw Data
 **These figures cannot be updated as Ohio Dept. of Health is now only reporting case data by week and not the daily case data.**
