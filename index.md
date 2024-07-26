@@ -1,6 +1,6 @@
 ## Plotting publicly available COVID data for the state of Ohio. 
 
-Most recent data: Jul 24 2024. 
+Most recent data: Jul 31 2024. 
 
 #### Data source
 These plots are made using the summary data posted by the state of Ohio for the new case rate,
@@ -14,25 +14,25 @@ Ohio has transitioned to updating its dashboards once a week, on Thursdays. Data
 The 7 day averages for the daily increase in cases. If no new cases were reported, these lines would go to zero.
 ![](7dayaverage_cases.png)
 
->The average increase in reported cases for the seven days ending on Jul 17 is: 482.0
+>The average increase in reported cases for the seven days ending on Jul 24 is: 581.0
 >
->The last time cases per day were this high was Mar 06 2024: 133 days prior.
+>The last time cases per day were this high was Mar 06 2024: 140 days prior.
 >
 >The seven day average then was: 612 cases.
 
 >
->The last time cases per day was lower than this was Jul 10 2024: 7 days prior.
+>The last time cases per day was lower than this was Jul 17 2024: 7 days prior.
 >
->The seven day average then was: 444 cases.
+>The seven day average then was: 546 cases.
 >
->Jul 17 marks the lowest 7 day average in the last three weeks.
+>Jul 24 marks the lowest 7 day average in the last three weeks.
 
 The 7 day averages for the daily increase in hospitalizations and deaths. If no new events were reported, these lines would go to zero.
 ![](7dayaverage_hospital.png)
 
->The average increase in hospitalizations per day for the seven days ending on Jul 17 is: 16
+>The average increase in hospitalizations per day for the seven days ending on Jul 24 is: 28
 >
->Jul 17 marks the lowest 7 day average in hospitalizations in the last three weeks.
+>Jul 24 marks the lowest 7 day average in hospitalizations in the last three weeks.
 
 The 7 day average increase in cases, compared to the rate of first round vaccinations, second round vaccinations, and total number of vaccinations dispensed:
 ![](DailyVaccinationsCases.png)
