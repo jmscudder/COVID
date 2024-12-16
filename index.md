@@ -11,19 +11,19 @@ Ohio has transitioned to updating its dashboards once a week, on Thursdays. Data
 *The Ohio Department of Health is no longer reporting daily case rates.* 
 
 ### 7 day averages
-The 7 day averages for the daily increase in cases. If no new cases were reported, these lines would go to zero.
+The 7 day averages for the wastewater estimated daily increase in cases. If no new cases were reported, these lines would go to zero.
 ![](7dayaverage_cases.png)
 
->The average increase in reported cases for the seven days ending on Dec 11 is: 462.0
+>The average increase in wastewater estimated cases for the seven days ending on Dec 11 is: 5684.0
 >
->The last time cases per day were this high was Oct 02 2024: 70 days prior.
+>The last time wastewater estimated cases per day were this high was Sep 28 2024: 70 days prior.
 >
->The seven day average then was: 564 cases.
+>The seven day average then was: 5778 cases.
 
 >
->The last time cases per day was lower than this was Dec 04 2024: 7 days prior.
+>The last time wastewater estimated cases per day was lower than this was Nov 30 2024: 7 days prior.
 >
->The seven day average then was: 385 cases.
+>The seven day average then was: 3445 cases.
 >
 >Dec 11 marks the lowest 7 day average in the last three weeks.
 
